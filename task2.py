@@ -17,4 +17,4 @@ print(func_1(x, y))
 x, y = 333, 2
 def func_2(x, y):
     return pow(x, y)
-print(func_1(x, y))
+print(func_2(x, y))
